@@ -1,4 +1,4 @@
-nombre = "Facunditooo "
+nombre = "Facundo "
 
 Apellido = "Mora"
 
